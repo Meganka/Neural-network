@@ -40,6 +40,7 @@
             TimeSpan roznica = stopTime - startTime;
             Console.WriteLine("Training time:" + roznica.TotalSeconds);
             Console.WriteLine("Training complete! :)");
+            
             double[] weights = nn.getWeights();
 
             //Console.WriteLine("nn weights and bias values:");

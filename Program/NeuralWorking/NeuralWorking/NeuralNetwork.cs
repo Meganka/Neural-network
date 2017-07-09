@@ -208,7 +208,7 @@ using System.Threading.Tasks;
                 outputGradient[i] = derivative * (targetValues[i] - outputs[i]); //formula 5 error signal - (targetValues[i] - outputs[i]), formula - 6 error signal * output value
         }
 
-            //hidden gradients
+        //hidden gradients
             for (int i = 0; i < hiddenGradient.Length; ++i)
             {   //for hidden layers node using tanh
                 // derivative of tanh = (1 - y) * (1 + y)
