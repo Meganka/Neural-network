@@ -10,3 +10,9 @@ C:\Users\Megane\Desktop\NeuralWorking\NeuralWorking\bin\Debug\NeuralWorking.pdb
 C:\Users\Megane\Desktop\NeuralWorking\NeuralWorking\obj\Debug\NeuralWorking.csprojResolveAssemblyReference.cache
 C:\Users\Megane\Desktop\NeuralWorking\NeuralWorking\obj\Debug\NeuralWorking.exe
 C:\Users\Megane\Desktop\NeuralWorking\NeuralWorking\obj\Debug\NeuralWorking.pdb
+C:\Users\Megane\Desktop\NeuralNetwork\Neural-network\Program\NeuralWorking\NeuralWorking\bin\Debug\NeuralWorking.exe.config
+C:\Users\Megane\Desktop\NeuralNetwork\Neural-network\Program\NeuralWorking\NeuralWorking\obj\Debug\NeuralWorking.exe
+C:\Users\Megane\Desktop\NeuralNetwork\Neural-network\Program\NeuralWorking\NeuralWorking\obj\Debug\NeuralWorking.pdb
+C:\Users\Megane\Desktop\NeuralNetwork\Neural-network\Program\NeuralWorking\NeuralWorking\bin\Debug\NeuralWorking.exe
+C:\Users\Megane\Desktop\NeuralNetwork\Neural-network\Program\NeuralWorking\NeuralWorking\bin\Debug\NeuralWorking.pdb
+C:\Users\Megane\Desktop\NeuralNetwork\Neural-network\Program\NeuralWorking\NeuralWorking\obj\Debug\NeuralWorking.csprojResolveAssemblyReference.cache

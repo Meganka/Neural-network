@@ -284,8 +284,9 @@ using System.Threading.Tasks;
             while (epoch < epochs)
             {
                 double helper = meanSquaredError(trainData);
-                 if (helper < 0.020)
+                 if (helper < 0.070)
                  {
+                Console.WriteLine("break !");
                     break;
                  }
 
